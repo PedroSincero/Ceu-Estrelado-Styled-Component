@@ -1,4 +1,4 @@
-import * as S from './Appp';
+import * as S from './styles/App';
 
 function App() {
   return (
