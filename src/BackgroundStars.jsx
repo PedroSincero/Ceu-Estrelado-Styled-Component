@@ -1,5 +1,5 @@
 import React from 'react';
-import * as S from './styles/App';
+import * as S from './styles/BackgroundStars';
 
 export default function BackgroundStars() {
   return (
