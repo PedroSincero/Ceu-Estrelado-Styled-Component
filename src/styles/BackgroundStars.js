@@ -79,7 +79,7 @@ export const Stars3 = styled.div`
   }
 `;
 
-export const Star = styled.div`
+export const Background = styled.div`
   background-color: transparent;
   height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
